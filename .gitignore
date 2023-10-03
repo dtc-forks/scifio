@@ -14,3 +14,7 @@ target/
 .idea/
 *.iml
 /.apt_generated/
+
+red4j-data/
+**/cp.txt
+**.java.orig
